@@ -1,0 +1,5 @@
+# Excluded from Composer dist and GitHub ZIP downloads
+/.editorconfig        export-ignore
+/.gitattributes       export-ignore
+/.github/             export-ignore
+/.gitignore           export-ignore
