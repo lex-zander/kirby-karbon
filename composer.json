@@ -1,7 +1,6 @@
 {
     "name": "lex-zander/kirby-karbon",
     "description": "Serves a carbon.txt for Kirby sites, editable in the Panel",
-    "version": "1.0.0",
     "license": "MIT",
     "type": "kirby-plugin",
     "keywords": [
@@ -26,7 +25,7 @@
         }
     },
     "extra": {
-        "installer-name": "kirby-karbon",
+        "installer-name": "karbon",
         "kirby-cms-path": false
     },
     "config": {

@@ -17,7 +17,7 @@ composer require lex-zander/kirby-karbon
 
 ### Manual
 
-Download the plugin and copy it to `site/plugins/kirby-karbon`.
+Download the plugin and copy it to `site/plugins/karbon`.
 
 ## Setup
 

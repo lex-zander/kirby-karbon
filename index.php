@@ -9,7 +9,7 @@ load([
     'LexZander\\KirbyKarbon\\CarbonTxt' => 'lib/CarbonTxt.php',
 ], __DIR__);
 
-App::plugin('lex-zander/kirby-karbon', [
+App::plugin('lex-zander/karbon', [
     'blueprints' => [ 'tabs/karbon' => __DIR__ . '/blueprints/tabs/karbon.yml'],
     'translations' => [
         'en' => Yaml::read(__DIR__ . '/translations/en.yml'),
